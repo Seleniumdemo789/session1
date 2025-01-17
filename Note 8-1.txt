@@ -1,0 +1,29 @@
+absolute xpath  == based on the root to the desire element
+
+relative xpath  == based on the current highlited area
+
+starts-with
+
+===================================
+
+
+xpath == obs / relative
+
+obs: root > desire element 
+
+
+
+//tagname[contains(text(),'value')]
+//tagname[contains(@att,'value')] 
+//tagname[starts-with(@att,'value')]
+
+value1 = selenium automation testing QA
+value2 = playwright selenium automation testing QA
+
+contains(@class,'QA')  2 of 2 
+
+starts-with(@class,'se') 1of 1
+
+contains(@class,'se') 2 -2 
+
+

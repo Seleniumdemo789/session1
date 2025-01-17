@@ -1,0 +1,79 @@
+1. wch automation tool we are using ?? 
+2. how to document testcases in real time ? 
+
+
+
+Automation : 15+ automation market 
+
+
+paid
+====
+UFT/LFT -- reduce 2013 -2018 
+waiter  -- NCR company ( ATM)
+
+
+freeware
+========
+selenium *   (java py c# ruby JS) -- JAVA (PY JS)
+Playwright JS      3 yrs               
+cypress    JS
+puppeteer  JS
+
+karate API   API
+Robot automation  PY
+
+=========
+script - 1month (10 Script(5 hours) ) - application -- PROD Env ()
+script - 1 month (12 scripts (6 hours) - ( 22 scripts (2 days)
+1 month (12 scripts) (4 hours)  -- (24 script)
+
+60 testcases -- 6months 
+
+6 automation -- 120 testcases (6months)  [ 6ppl - 60 , 120 ] [ 
+
+180 Testcases (2 days())
+
+-- 500 TC's ()
+
+==========
+
+testcase - 10 year (Excel sheet) -- Excel sheet (
+ sharepoint /google (cloud)
+
+
+JIRA, Azure devops, Bitbucket
+
+testcases - screenshot
+Bug- bug stages
+script 
+CI/CD - exeuciton of script on cloud / schedule (every -10 am)
+
+
+========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

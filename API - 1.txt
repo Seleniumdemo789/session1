@@ -1,0 +1,24 @@
+
+status code
+url change n check
+observe the payload n request
+
+
+
+
+Steps t reproduce
+
+=================
+
+login to postman
+enter the url and change the id from 10 to awwjdghqkdgqawkjegqew
+click on send 
+observe the response
+
+===
+
+expected : since the id is not valid it shud display error status code with 4XX
+
+actual : displaying details of other id with statrus code 2XX
+
+screenshot

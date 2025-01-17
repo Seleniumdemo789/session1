@@ -1,0 +1,152 @@
+Testing, QA, Quality Analyst, SDET (Software developer in test)
+===============================================================
+Testing >> Validate > verify > justify
+===============================================================
+Application >> WhatsApp (2012 - 2024)
+
+2012 > texting   (v 1.0)
+
+2013-2020 > call , vcall , audio  update, version, build ,patch (v1.1)
+
+2021-2024 (group 256, count, community) (v1.2) (payment)
+
+software upgradation (testing)
+
+application is developed or enhancement (update, patch build version, tweeks)
+
+Testing (QA, Automation, functional) 
+
+=================================================================
+
+WhatsApp >> testing (Meta compy -- application > testing team )
+
+payment gateway (123 mbl kiran) to (pavan failure)
+                (123 kiran passed)
+
+10000 ppl (balance X credit ) failure (defect, bug, error)
+
+== v.call (network) - (failure)
+
+== texting audio (delivered, text ENG) -- failure (testing report meta dev team)
+
+------------------------------------------------------------------ 
+end user - we are user (andriod , ios)
+
+==================================================================
+PC games (GTA, NFS, CALL Duty))
+
+===================================================================
+
+
+facebook (java > php > Python > R lang) -- Testing (scope)
+
+facebook - python 
+
+Testing - Java, JS, TS, PY, RUBY, groovy, .NET (C#) --- 40% Java ( oops concept, loops (for for each if), datatype (int, float ,string), class (diff name) - 3 hrs)
+
+Amazon application
+
+
+-- testing indepen of development 
+===================================================================
+
+Testing (QA) > functional , Automation, Load testing (automation)
+
+
+Functional/ manual >>  call whtaspp to 1000 (6 hrs) == 
+                  	call whtapp to 2000 (12hrs)  (2 working 9 hrs)
+	               call 3000 (18hrs)
+        	       call 5000 (45hrs) (5 days) 
+               	       sick leave (pending) >> recover (manual power)
+
+
+Automation >> script in Java (make (10 digts)
+              excel (5000 mbl excel) (6 hrs) [over night[10pm - 3 am] [early] [manual effort dec] [1 person ][time is less]
+              excel (1000 mbl excel) (1 hrs) 
+
+
+load testing >> degree/btech >> result [AP, TS (slowness is app, 500 error server)] 
+
+Degree/Btech (5L of users login / sessions)
+10L(login session ) server will crash (2 working)
+
+Amazon [crash (user) - count [60L]
+
+high server >> backup (server 1 crash > server 2 run)  [DR Testing] Disaster recovery
+
+===================================================================
+
+Tezz trail (51 rupee) >> Google pay 
+
+===================================================================
+
+CI/CD -- 
+
+
+Cont integration and cont development []
+
+
+whatspp 
+
+call (kiran - 2020 jan)
+vcall  (kiran - 2020 mar) 
+
+call, vcall [kiran 2020 April]
+
+audio
+groiup
+payement
+online status ()
+
+
+bunch [kiran (6 mnths)]
+
+relase app.
+
+=====================================================================
+
+
+
+
+
+
+
+=======================================================================
+Flowchart [Lift/elevator]
+algorithm 
+
+
+
+=======================================================================
+
+
+testing look in diff angle 
+
+
+Lift 
+
+
+brand 
+capacity 1200 15 ppl 
+light 
+fans 
+button 
+calling 
+each lift stopping 
+emergency exit 
+time stamp to reach the floor 
+shock proof
+
+
+===============Assignment===================================
+testcases
+
+Pen 
+Elevator 
+Painting a bus
+laptop 
+mobile phone 
+
+
+Types of functional testing
+==================================================

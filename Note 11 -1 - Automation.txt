@@ -1,0 +1,15 @@
+Automation
+==========
+
+Script : Java, JS (JavaScript), TS (TypeScript), PY (Python), Ruby , C# (.net)(.class)
+
+
+IDE: Intellij (Best)- Jetbrains , VScode(MS)(Paid/freeware) , eclipse , Pycharm , Netbrains
+
+
+IRCTC trains (tatkal)
+Amazon
+Captcha 
+
+
+

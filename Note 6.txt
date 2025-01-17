@@ -1,0 +1,100 @@
+Automation 
+
+Identify the Address 
+coding 
+results 
+
+===================
+
+
+Address -- Element identification ( DOM -- document object model)
+
+ID
+Class
+Name
+Link text
+partial link text
+CSS  
+XPath 
+======================
+
+
+XPath -- 3 secnd to identify 
+
+
+<text
+  or
+<alphabet 
+Tagname  -- input
+=================
+
+before == is called as attribute 
+
+class
+name
+placeholder
+autofocus fdrpocecssdid
+
+==================
+after === is called as value 
+
+
+---- 
+
+tagname
+attribute
+value
+=====
+
+
+XPATH == tagname att value 
+
+
+username field --  
+
+//tagname[@att='value'] 
+
+//input[@name='username']
+//input[@name='password']
+
+
+===================================================
+
+xpath
+=====
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+https://demo.automationtesting.in/Register.html -- Register tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS - 1 second 
+
+but still ppl addicted to xpath not for css
+
+limitations  [ bi diretional - xpath
+css - one directional  ]
+
+=========================

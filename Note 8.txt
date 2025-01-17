@@ -1,0 +1,41 @@
+NEW
+======
+DOM = document object model (html + css)
+
+HTML + CSS (look n feel ()) ---  inspect element Rclick
+
+tagname         ==   <p   <br  <input   == p   br   input
+attribute       ==   left side of the equal sign    == 
+value           ==  right side of equal 
+
+=========================================================================
+//tagname[@att='value']              //tagname[text()='value']
+//tagname[contains(@att,'value')]    //tagname[contains(text(),'value')]
+=========================================================================
+//tagname[@att0='value0' and @att1='value1'] 
+//tagname[@att0='value0' or  @att1='value1'] 
+
+parent- child  //
+child to parent  //.. 
+
+following : top to botton // left to right               following::tagname
+preceding : bottom to top  // right to left              preceding::tagname
+
+source           //i[@role='img']
+destination      span[contains(text(),'Need help?')]
+relation        
+
+//i[@role='img']//following::span[contains(text(),'Need help?')]//following::h5[text()='New to Amazon?']
+//h5[text()='New to Amazon?']      == destination
+
+CSS == top to bottom  == faster 1 secnd
+xpath == 3 secnd  == bi directional
+
+
+url
+
+https://automationexercise.com/
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+https://demo.automationtesting.in/Register.html

@@ -1,0 +1,136 @@
+java
+====
+
+Pre instllation 
+
+Java setup  -- 2023 java freeware -- 2024 paid version (oracle)
+IDE (Integrated dev env)
+
+
+https://www.openlogic.com/openjdk-downloads
+https://eclipseide.org/  (Eclipse IDE for Java Developers)
+
+
+.exe  -- set the environment 
+.msi  -- installation (env)
+
+
+JDK - java dev kit
+
+
+win + R ( cmd)
+
+command: java --version
+
+
+
+======================================
+
+project  -- javaproject
+package
+class
+
+
+comments :  //  or ctrl + ? 
+printing the value :  syso (ctrl + space)
+
+
+
+
+
+write within double quotes is called as String
+ex : "Kiran" (printing)
+
+
+
+
+
+
+
+
+Datatypes:
+==========
+String  ===  "selenium"  (no harm to code)  (selenium)
+integer (int) ==   accepts only numerics (10000)
+Boolean  == just for print true or false
+float  == accepts only demical numbers ( 13.4588888)
+char    == "Kiran"  ("k" "I" "R" "A" "N")
+double  === accepts numerics ( more than 10 digits ) (555555777777)
+
+
+how to create a string n print the value 
+
+ctrl+space
+end with ;
+
+String name = "selenium"; 
+
+name is called a variable/ object
+String is called a datatype
+Selenium is called a value
+
+right to left 
+
+=====================
+
+syso
+
+
+
+
+
+
+
+
+
+
+
+
+
+method === name()
+
+
+if u want to call any method or class in another call use below code
+
+
+new classaname(which u want to call) . method name
+
+
+
+
+Installation - java eclipse
+confirmation - cmd (java --version)
+
+eclipse (project > package > class)
+
+datatypes (string, int , Boolean , double , char, float)
+
+comment (// or ctrl +? )
+
+print (syso (System.out.println))     (ctrl + space)
+
+how to call a values in other class or package (new classname.methodname)
+
+methodname == followed by ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

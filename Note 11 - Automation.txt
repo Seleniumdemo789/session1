@@ -1,0 +1,43 @@
+Textbox  : sendkeys("String");
+chrome : choosefile / FF : Browse //edge : Sendkeys("filepath (c://doucmnet//image.jpg");
+
+buttons : click();
+calendar : .click();
+radio box : click(); 
+checkbox : .click(); 
+links : click();
+
+Scrollbar : JS
+drag n drop : Actions
+mousehover : Actions
+
+frames : security
+alerts
+windows
+
+
+==============
+IDE (VSCode)
+jar files (Selenium.dev > downloads > selenium grid (latest version)'
+Java -- JDK (latest version)  
+git version -- https://git-scm.com/downloads  (optional)
+https://mvnrepository.com/artifact/org.testng/testng  -- testng
+==============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

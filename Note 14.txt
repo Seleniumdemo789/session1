@@ -1,0 +1,69 @@
+.switchto();
+
+
+https://the-internet.herokuapp.com/javascript_alerts
+
+
+http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+
+https://www.globalsqa.com/demo-site/datepicker/
+
+
+
+Alerts -- ok, agree (accept), cancel, disagree(dismiss), sendkeys("value") [xpath], gettext();
+
+
+======================================
+Alert alt = driver.switchTo().alert();
+
+alt.accept();
+
+alt.dimiss();
+
+String alertname = alt.gettext();
+syso(alertname);'
+
+alt.sendkeys("kiran");
+
+=======================================
+
+Frames (hidden security)
+
+frame     -- banking
+iframes   -- banking
+
+
+
+
+name attribute
+xpath for frame
+trail n error (index -- 0 1 2 )
+
+driver.switchTo().frame("file");
+
+        driver.switchTo().frame(driver.findElement(By.xpath("//iframe[contains(@srcdoc,'Frame 2')]")));
+        
+        driver.switchTo().frame(1);  // 0 1 2
+
+        driver.switchTo().defaultContent(); // reset to orginal postion
+
+
+======================================
+
+
+
+window (TAB)
+============
+
+
+
+
+
+
+
+
+
+
+
+
+

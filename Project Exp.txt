@@ -1,0 +1,119 @@
+
+
+
+===================================
+
+
+
+FedEx  [ 
+=====
+
+FedEx - QA Automation Techincal: 
+
+Framework [Java, JS , TS , playwright , cypress], sample developed 
+ 
+100+ frames (Automation) - 
+
+
+
+
+
+
+make courier -- items (road, waterways, airways)
+
+Kiran -- Fedex courier (state, overseas) -- Tracking ID (End to end transcation)
+
+1. Status( Packaging / address/ mbl / [lat 56.23 , long 85.97]  -- 3 testcases   [ 1000 couriers]
+2. Scanning (rejected / Accepted) [Checkpost / Navy team , airports] -- 2 testcases
+3. Accepted (out for delievery / delivered) 
+4. Accpeted (hazards / number X unable to customer / address in correct)  -- 2 testcase 
+5. Hazards (hurricane /cyclone / wildfire / terrorism attack / earthquake)  -- 5 testcases 
+6. delayed / damaged [Fedex - insurance]
+7. Timeline [3-5 days] -- beyond [6 days -- status]
+8. Report [1000 - delayed 10 / delivered - 50 , status unknown - 80 ]
+======================================
+rejected
+1. calls from authorities to justify the issue 
+2. your details are not filled completed
+
+================
+Roles n respon : 
+
+Testdata - person 1 : - Road ways , package , scanning error , - status 
+person 2 - Road ways [5 days] - additional express delivery - Airways [2 days]
+person 3 - Airways [terrorism] -
+peron 4 - 
+
+
+
+====buffer time ===
+30 days or 2 -3 sprints [10 days/ sprint]
+daily basis - 2 Hrs -- KT [Knowledge Transfer] [ 1-2-3 weeks] - [Recording]
+===
+
+
+Automation -- Application stable [avoid errors / rewrite the script]
+================================
+
+
+1. Automation : Kiran [ jan 1 2025 -- Mar 1 2025 (15 pages stable)]
+2. Manual : Pavan [5 years -- 40 pages/screen -- 15 pages stable] 
+
+
+================
+Automation [3 ppl (15 pages + 6 pages) + Kiran [jan 1 2025] :
+
+3 - 5 page 
+1 - 1 page (script -- everyday - 1pm - scripting running -- report -- passed -- fail (sprint 10 days - sprint 10 days -- ))
+
+9-6 hrs (7 hrs) [5 hrs (script - 2 - 10days) ( - 2 hrs)
+
+xpaths 
+switch 
+double click 
+Jar files - excel
+robot 
+Alert - screenshot - > 
+
+Java
+Even number
+1 - 100 ( mutiples of 3 )
+KIRAN -- K R N 
+
+wat is the future 5 years 
+
+== Report - /5:  [maager / interviww / HR]
+
+
+10L [15 L -- oct nov dec] -- April [1.5 L] --
+
+
+Dec2024 -- April 2026 -- [1.5yrs]  -- jan - April [ 1
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+//tagname[@att='value']
+//tagname[contains(@att,'value')]
+======================================
+//tagname[text()='value']  or   //tagname[.='value']  or //*[.='value']
+//tagname[contains(text(),'value')]
+========================================
+//input[@type='submit' and @name='signin' and @id='login-signin']
+//input[@type='submit' or @name='signin' or @id='login-signin']      
+==========================================
+
+ancestor - parent - child -- grand child
+=========================
+
+from parent if u want to move to child or childs use //tagname
+ 
+from child to parent use //..   or //parent::div
+
+
+source   ===  john
+destination   == country
+relation ship  ==    
+
+
+indexing    (xpath)[indexnumber]
+
+//span[.='Sign in']
+//input[@type='email']
+
+ following   top to bottom or left to right  -- CSS and XPATH   -- following::tagname
+ preceding    bottom to up or right to left  -- XPATH  -- preceding::tagname
+
+CSS -- uni direction.. 
+btkp0l
+XPATH --  
+
+
+
+
+
+                                  
+
+
+
+
+

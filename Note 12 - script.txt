@@ -1,0 +1,14 @@
+open the VS code > goto exetensions > Extension Pack for Java
+
+
+after installation revisit same navigation n observe the instllation files
+
+
+
+selenium jar
+testng  -- eclipse (download it by eclipse)
+vscode -- provide the testng jar
+
+
+Selenium - jar used for automation
+TestNG - framework

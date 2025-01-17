@@ -1,0 +1,124 @@
+Testing
+=======
+
+Testing >> Functional (manual) // Automation (code)
+
+
+
+Testing  (50 testing types)
+=======
+6-10 Testing Types
+==================
+
+Smoke Testing >> this will be done by Developer / QA Team. (QA Env v8) (Dev Env v10) (NPR Env v8) (PROD Env v8) 
+gmail app
+
+when ever a new build is released in (QA Env)  []
+
+dev  (gmail installed -- bug 3 fixed)
+QA  (gmail installed -- bug 3
+Devops 
+check the basic functionality Gmail app (login, logout, sending) (failed) -- rejected the build -- Showstopper (unable to proceed further)
+========================================================
+
+Smoke , Sanity , regression adhoc, retesting 
+monkey, exploratory testing 
+
+
+sanity testing
+==============
+code changes, bug fixes, new feature added 
+verifying the new features, bug fixes without disturbing the existing functionality and avoid the new issue 
+
+
+Regression Testing
+=================
+code changes or new features negative testing
+after code changes verifying the only the specific functionality
+
+login
+logout
+attachment (code changes)
+===============================
+
+AdHOC testing (major functionality (50 TC) -- randomly testing (950 count))
+
+provide results - gmail app (1 hr) (1000 testcases - functionality - 3 ppl)
+
+==================
+
+Monkey (randomly testing)
+
+=================
+
+exploratory testing
+=======================
+
+BRS (QA , DEV) -- [FEDEX - courier] [2000] - BRS [2000]
+
+BRS is not available
+
+application login n credentials 
+
+seeing the application behavior [Assumptions] 
+=========================================================
+
+Retesting
+=========
+
+1. login page of gmail (user 1 , pwd 1 , file image format)  -- passed
+2. login page gmail (user 5 , pwd 5 , file pdf doc) -passed
+3. login page gmail (user 10, pwd 10, file mkv video ) - passed
+
+testing the app with different combinations testdata is called re testing
+==========================================================
+
+
+Priority testing (major functionality)
+
+==========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

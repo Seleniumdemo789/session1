@@ -1,0 +1,20 @@
+XPaths
+=====
+//tagname[@att='value'] 
+
+//tagname[contains(@att,'value')]
+//span[contains(@class,'challenge')]
+
+tagname == <Text or alphabet
+
+att = before equal sign
+
+value = after equal sign and enclosed with in "" 
+
+============
+
+//tagname[text()='value']
+//tagname[contains(text(),'value')]
+=============================================
+//span[text()='using your Yahoo account']
+//span[contains(text(),'using your Yahoo')]

@@ -1,0 +1,153 @@
+SDLC - software devlopement life cycle
+planning  -- BR (Business requirement)
+Analysis
+desiging -- Devlopment (2 weeks)
+dev -- 
+Testing
+Depoloyment
+Maintantance 
+===================================================================================================
+STLC -- Software testing life cycle 
+BR (Business requirement)  -- review this will create the testcases. (gmail login to logout n email)
+Testplan  -- module - login, sending, attachment, Logout, business logic (sending the email)
+Testcases -- Positive and Negative testcases [BRS]
+Execution -- after appliction is ready -- check the testcases against the application wch is developed
+if any mismatch result (Actual n Expected)
+
+A == E == passed
+A /= E == Failed (log a bug/defect/error)
+
+Bug: BRS document (button shud be in green color, button shud be in right side corner of the page)
+while ur testing button is orange color, center of the page (bug: Deviation from the requirement BRS) 
+
+Defect: while ur creating a account in the app (Successful and record shud be available)
+        no record is available this defect  (When application is not working as expected)
+
+error: Server (100 404, 500), genuine errors 
+network issue
+
+==
+Test closure - Result (Feedback, summary) - How many testcases 900 - 600Passed/300 Failed) -- justify application (300 failed 
+
+login module - 50 Defects - Screenshot- video - Priority (50 defects major - High , medium, low  ===   1 , 2 , 3 == p1, p2, p3   == bug jira, azure, testrail, bitbucket
+login attachment - 10 defects - screenshot 
+======================================================================================================
+                                       Bug life cycle
+				================================
+
+unable to attach the file whc is less than 15 mb.
+==================Bug report =================
+Steps to Reproduce 
+==================
+1. Login to the application (https://gmail.com)
+2. Enter valid credentials
+3. Compose an email 
+4. attach the file which is less than 15mb
+5. provide the valid To address email 
+6. click on send button 
+
+Expected Result: Since the attachment size is less than 20 mb so ideally this file shud get uploaded 
+
+Actual Result: Unable to attach the file with 15mb or less / Facing below error messag while uploading the file less than 15mb
+
+Screenshot: 
+
+================================================
+
+
+Stage == New (QA)
+         Assign -Dev Surya (QA / QA Lead / Dev Lead / Dev manager)
+         dev person open(Read -- DEV) 
+
+         Duplicate- DEV     Rejected-DEV   Hold- DEV    fixed/Resolved=- DEV
+
+Duplicate: Defect by Satish (2024 Jan) -- 
+           Defect Aslam (2024 Dec)  --  
+
+Rejected: This is not a bug (I can able to attach file)
+
+Hold /Deferred: I agree this is a bug , for fixing I need time (1 month, 6, 1 year)
+
+Fixed/resolved: agreed the bug n provide the solution (DEV) (build -- website, version- mobile app, patch -- games n software, deployment-server)
+
+update: existing 100 files - application (1 file replace or few file are added)
+
+QA (Aslam) -- retest (attachment) -- 15MB (BVA - boundary n n+1 n-1
+
+20mb
+
+21mb  -
+20mb  + 
+19mb  - 
+
+Aslam (Closed)
+if still the attachment ( Reopen -- QA)
+
+
+================================================== 
+
+
+
+Assignment for the SDLC, STLC , Bug life cycle 
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

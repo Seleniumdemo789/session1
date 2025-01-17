@@ -1,0 +1,35 @@
+===========Regular json========================================
+
+{
+"payname" : "Asalm"
+"mobile" : "XXX789"
+"amount" : "500"
+"message": "refunded"
+}
+
+
+key:value 
+==================================Nested json file====================
+
+{
+"payname" : "Asalm"
+	{ age: 26
+          occupation : business
+	 }
+
+"mobile" : "XXX789"
+{
+country code : +91
+}
+"amount" : "500"
+"message": "refunded"
+}
+
+
+payname.age
+mobile.coutry code
+
+
+
+
+===================================================================

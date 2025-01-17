@@ -1,0 +1,117 @@
+API (app prog interface)
+========================
+
+X UI (user interface)
+X website
+X browser
+
+json file (url) ----
+
+
+API > Functional API (POSTMAN, Insomia, Bruno)
+    > Automation API (JAVA, JS, C#, py -- selenium, playwright)
+
+=====================================================================
+
+API (UPI) -- 2018  smartphone (number, successfully)
+payment (API) 
+basic UPI (text, amount) 
+====================================================================
+
+================================
+API :  (payments UPI, bypass the website)
+=====
+
+GET  : fetching the details
+POST : Creation of new details/record
+PUT  : Updating the details  (full details)  -- (78945) 100 rs (payment (pincode) cancelled,(741852) 200 rs -- 
+PATCH  : updating the details (partially) --- (78945) 100 rs (payment (pincode) cancelled, 200 rs -- partially (200)
+DELETE : deleting the detail/records 
+
+
+===
+result (degree/ btech)
+
+huge load (10-60 mins)(server hangup)
+
+colleges (API services), (10 millsecnds)
+=================================
+
+internet
+accnt num : ifsc
+30 mins 
+1 hrs payment
+
+API: (Mobile > bank)
+====================
+
+
+
+=============================
+
+status code:
+
+1XX -- information
+
+2XX -- 201 202 203 204 210 -- Successfully message 
+
+4XX -- user provided invalid details  -- 401, 404, 403
+
+5XX -- server issue -- 501, 500
+
+3XX -- online (food, coupon, axis cards --- paytmn, OTP (redirection)) -- axis (3rd party)  --- payment gateway (3rd)
+
+================================
+
+
+
+
+JSON -- payload -- put patch post
+
+get - delete -- no json 
+
+
+== post
+
+ff808181932badb601944bb0ebf20b44
+
+
+{
+    "id": "ff808181932badb601944bb0ebf20b44",
+    "name": "Apple MacBook Pro 16",
+    "createdAt": "2025-01-09T15:31:13.522+00:00",
+    "data": {
+        "year": 2019,
+        "price": 1849.99,
+        "CPU model": "Intel Core i9",
+        "Hard disk size": "1 TB"
+    }
+}
+
+===========================================================
+
+
+
+swagger document
+https://app.beeceptor.com/mock-server/dummy-json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

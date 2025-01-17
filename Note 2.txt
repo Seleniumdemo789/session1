@@ -1,0 +1,118 @@
+TestCases
+=========
+Gmail -->> account gmail >> compose n attachement > send  
+Functionality
+App gmail
+
+Testcases 
+=========
+create a testcases > test by functional/manual
+Automate this app (1 year)
+==========================
+Automate the gmail + compose email + attachment + send (20days) (5days) (6days)
+app is stable (testcases and executing the testcase by fun or manual > bugs > dev team > 6 months)
+Automation (script)
+==========================
+
+Testcases
+=========
+
+Template 
+
+
+
+===============================================================================
+
+					Lift 
+
+
+
+Capacity ==  100kg (8ppl)
+
+attempt 1 : 100kg (8ppl)  positive 
+attempt 2 : 80kg (6ppl)    negative scenario
+attempt 3 : 150kg (15ppl)  negative scenario
+
+
+BVA (boundary value analysis)  
+
+N
+N-1
+N+1
+
+
+== password 
+
+min6 - max15
+
+5,6,7               14 15 16
+
+
+
+
+
+
+==========
+
+scenario to login to portal
+
+attempt :  valid username n valid pwd > login  (positive)
+attempt :  invalid username n valid pwd > login (negative)
+attempt :  valid username n invalid pwd > login (negative)
+attempt :  invalid username n invalid pwd > login (negative)
+attempt :  blank username n blank pwd  > login (negative)
+
+login button: 
+
+valid valid  [testdata -- Admin admin123] 
+invalid valid  [kljwklernwer  admin123]
+valid invalid [Admin  4664646]
+invalid invalid [ h32bbk2b ;ojbrb23;rj2]
+
+===============
+
+positive 
+========
+
+valid username 
+invalid username  
+blank username 
+
+reset button 
+=========
+
+valid chck for button enable/disabled
+invalid username n chck for enable/diasable
+blank username n check for enable/disable
+
+cancel 
+======
+
+
+
+TC_Login_001
+
+TC_Reset_0001
+
+TC_logout_001
+
+
+Assignment 
+==========
+
+Login Page == Orange HRM Demo
+logout page ==
+Testcase for QR code == 
+
+
+
+
+
+
+
+
+
+
+
+
+
